@@ -3,10 +3,10 @@
 > A structured collection of LeetCode solutions in Python — with intuition notes, dry runs, and complexity analysis for every problem.
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-10-brightgreen?style=flat)
-![Easy](https://img.shields.io/badge/Easy-4-00b8a3?style=flat)
-![Medium](https://img.shields.io/badge/Medium-4-ffc01e?style=flat)
-![Hard](https://img.shields.io/badge/Hard-2-ff375f?style=flat)
+![Problems](https://img.shields.io/badge/Problems%20Solved-15-brightgreen?style=flat)
+![Easy](https://img.shields.io/badge/Easy-6-00b8a3?style=flat)
+![Medium](https://img.shields.io/badge/Medium-6-ffc01e?style=flat)
+![Hard](https://img.shields.io/badge/Hard-3-ff375f?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
 
 ---
@@ -27,10 +27,10 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 4      |
-| 🟡 Medium  | 4      |
-| 🔴 Hard    | 2      |
-| **Total**  | **10** |
+| 🟢 Easy    | 6      |
+| 🟡 Medium  | 6      |
+| 🔴 Hard    | 3      |
+| **Total**  | **15** |
 
 ---
 
@@ -43,6 +43,11 @@ LeetCode-Solutions/
 - Dynamic Programming
 - Expand Around Center
 - Simulation / Row Buckets
+- Single Number II
+- Longest Common Prefix
+- Valid Parentheses
+- Reverse Integer
+- String to Integer atoi
 
 ---
 
