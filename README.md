@@ -3,10 +3,10 @@
 > A structured collection of LeetCode solutions in Python — with intuition notes, dry runs, and complexity analysis for every problem.
 
 ![Python](https://img.shields.io/badge/Language-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-35-brightgreen?style=flat)
-![Easy](https://img.shields.io/badge/Easy-14-00b8a3?style=flat)
-![Medium](https://img.shields.io/badge/Medium-14-ffc01e?style=flat)
-![Hard](https://img.shields.io/badge/Hard-7-ff375f?style=flat)
+![Problems](https://img.shields.io/badge/Problems%20Solved-40-brightgreen?style=flat)
+![Easy](https://img.shields.io/badge/Easy-16-00b8a3?style=flat)
+![Medium](https://img.shields.io/badge/Medium-16-ffc01e?style=flat)
+![Hard](https://img.shields.io/badge/Hard-8-ff375f?style=flat)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat)
 
 ---
@@ -27,10 +27,10 @@ LeetCode-Solutions/
 
 | Difficulty | Solved |
 |------------|--------|
-| 🟢 Easy    | 14      |
-| 🟡 Medium  | 14      |
-| 🔴 Hard    | 7      |
-| **Total**  | **35** |
+| 🟢 Easy    | 16      |
+| 🟡 Medium  | 16      |
+| 🔴 Hard    | 8      |
+| **Total**  | **40** |
 
 ---
 
